@@ -5,18 +5,10 @@
 
 
 
-Author: 
-# Arshiya Khan
 
-Internship ID:
-# INTERNSHIP_17546440516895be537820f    
+**Author:** Arshiya Khan
 
-
-# **Project Report: Detailed Analysis of the Airbnb Hotel Booking**
-
-**Author:** Mohmmad Tausif  
-
-**Internship ID:** INTERNSHIP\_17546440516895be537820f
+**Internship ID:**  Internship ID: INTERNSHIP_17546440516895be537820f    
 
 -----
 
