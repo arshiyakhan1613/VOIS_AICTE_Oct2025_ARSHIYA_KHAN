@@ -1,15 +1,10 @@
-# VOIS_AICTE_Oct2025_ARSHIYA_KHAN
 
 
-# Project Report: Detailed Analysis of the Airbnb Hotel Booking
-
-
-
+# **Project Report: Detailed Analysis of the Airbnb Hotel Booking**
 
 **Author:** Arshiya Khan
 
-**Internship ID:**  INTERNSHIP_17546440516895be537820f    
-
+**Internship ID:** INTERNSHIP_17546440516895be537820f    
 -----
 
 ### **1. Project Introduction & Setup**
@@ -90,6 +85,10 @@ plt.ylabel('Neighbourhood Group')
 plt.show()
 ```
 
+#### **Visualization**
+![Analysis of Listings by Borough](https://github.com/arshiyakhan1613/VOIS_AICTE_Oct2025_ARSHIYA_KHAN/blob/main/Analysis%20of%20Listings%20by%20Borough.png)
+-----
+
 ### **5. Analysis of Room Type Distribution**
 
 #### **Description**
@@ -106,7 +105,9 @@ plt.ylabel('') # Hides the y-axis label
 plt.show()
 ```
 
-
+#### **Visualization**
+![Analysis of Room Type Distribution](https://github.com/arshiyakhan1613/VOIS_AICTE_Oct2025_ARSHIYA_KHAN/blob/main/Analysis%20of%20Room%20Type%20Distribution.png)
+-----
 
 ### **6. Price Distribution Analysis**
 
@@ -125,6 +126,9 @@ plt.ylabel('Number of Listings')
 plt.show()
 ```
 
+#### **Visualization**
+![Price Distribution Analysis](https://github.com/arshiyakhan1613/VOIS_AICTE_Oct2025_ARSHIYA_KHAN/blob/main/Price%20Distribution%20Analysis.png)
+-----
 
 ### **7. Correlation Analysis of Features**
 
@@ -145,6 +149,9 @@ plt.title('Correlation Matrix of Numerical Features')
 plt.show()
 ```
 
+#### **Visualization**
+![Correlation Analysis of Features](https://github.com/arshiyakhan1613/VOIS_AICTE_Oct2025_ARSHIYA_KHAN/blob/main/Correlation%20Analysis%20of%20Features.png)
+-----
 
 ### **8. Analysis of Most Expensive Neighborhoods**
 
@@ -165,6 +172,9 @@ plt.xlabel('Average Price ($)')
 plt.ylabel('Neighborhood')
 plt.show()
 ```
+
+#### **Visualization**
+![Analysis of Most Expensive Neighborhoods](https://github.com/arshiyakhan1613/VOIS_AICTE_Oct2025_ARSHIYA_KHAN/blob/main/Analysis%20of%20Most%20Expensive%20Neighborhoods.png)
 
 
 
